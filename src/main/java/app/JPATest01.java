@@ -6,6 +6,7 @@ import javax.persistence.Persistence;
 
 import modelo.Usuario;
 
+//Clase subida a Gihub //Autor DAVID VERA
 public class JPATest01 {
 
 	public static void main(String[] args) {
